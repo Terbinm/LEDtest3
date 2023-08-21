@@ -7,7 +7,7 @@ def cf(x, y):
 
 
 while True:
-    # 用户输入
+    # 用户輸入
     print("運算方式：")
     print("1. 相加")
     print("2. 相减")
