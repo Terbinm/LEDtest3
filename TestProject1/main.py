@@ -1,6 +1,7 @@
 from C110118142add import add
 from divide import divide
 from subtract import subtract
+from multiply1 import multiply
 
 #次方
 def cf(x, y):
@@ -19,7 +20,7 @@ while True:
     print("5. 次方")
     print("6. 退出")
 
-    choice = input("選擇運算方式（1/2/3/4/5）：")
+    choice = input("選擇運算方式（1/2/3/4/5/6）：")
 
     if choice == '6':
         print("退出功能")

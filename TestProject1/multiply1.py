@@ -4,7 +4,7 @@ def multiply(a, b):
     return a * b
 
 # main.py
-
+'''
 from function import multiply
 
 while True:
@@ -25,3 +25,5 @@ while True:
         print("結果：", multiply(num1, num2))
     else:
         print("輸入無效")
+
+'''
