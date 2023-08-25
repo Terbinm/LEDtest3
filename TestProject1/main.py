@@ -1,3 +1,6 @@
+from C110118142add import add
+from divide import divide
+from subtract import subtract
 
 #次方
 def cf(x, y):
